@@ -1,0 +1,82 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"7977fd1e-10a3-4d93-8780-d748a48bd289\" name=\"Changes\" comment=\"“Caso 1: Calcular promedio con conjunto vacío (Verde)\">\r\n      <change beforePath=\"$PROJECT_DIR$/src/tests/testconjunto.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/tests/testconjunto.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"Pool-NS &lt;75177414@continental.edu.pe&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 7\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2nUFz5Au0o0gB89TnJIz8L2fHPm\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python tests.Python tests in testconjunto.py.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"main\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Python tests.Python tests in testconjunto.py\">\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"KATDD\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Python tests in testconjunto.py\" type=\"tests\" factoryName=\"Autodetect\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"KATDD\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/src/tests\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;$PROJECT_DIR$/src/tests/testconjunto.py&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PATH&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python tests.Python tests in testconjunto.py\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"7977fd1e-10a3-4d93-8780-d748a48bd289\" name=\"Changes\" comment=\"\" />\r\n      <created>1729020007516</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1729020007516</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Caso1 :calcular promedio con conjunto vacio (Rojo)\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729021403390</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729021403390</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Caso1 :calcular promedio con conjunto vacio (Rojo)\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729021475679</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729021475679</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"calcular promedio en (VERDE)\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729021527797</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729021527797</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"calcular promedio en (VERDE)\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729021708207</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729021708207</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"“Caso 1: Calcular promedio con conjunto vacío (Verde)\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729021879260</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729021879260</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Caso1 :calcular promedio con conjunto vacio (Rojo)\" />\r\n    <MESSAGE value=\"Caso1 :calcular promedio con conjunto vacio (Verde)\" />\r\n    <MESSAGE value=\"Merge remote-tracking branch 'origin/main'\" />\r\n    <MESSAGE value=\"calcular promedio en (VERDE)\" />\r\n    <MESSAGE value=\"“Caso 1: Calcular promedio con conjunto vacío (Verde)\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"“Caso 1: Calcular promedio con conjunto vacío (Verde)\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/main.py</url>\r\n          <line>8</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 81fc9179af0dff9e625588475cdf887137e9fd98)
++++ b/.idea/workspace.xml	(date 1729022292687)
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="“Caso 1: Calcular promedio con conjunto vacío (Verde)">
+-      <change beforePath="$PROJECT_DIR$/src/tests/testconjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testconjunto.py" afterDir="false" />
+-    </list>
++    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="“Caso 3: Calcular promedio con conjunto vacío (Verde)" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -144,7 +142,47 @@
+       <option name="project" value="LOCAL" />
+       <updated>1729021879260</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="“Caso 1: Calcular promedio con conjunto vacío (Rojo)">
++      <option name="closed" value="true" />
++      <created>1729022085831</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1729022085831</updated>
++    </task>
++    <task id="LOCAL-00007" summary="“Caso 1: Calcular promedio con conjunto vacío (Verde)">
++      <option name="closed" value="true" />
++      <created>1729022217169</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1729022217169</updated>
++    </task>
++    <task id="LOCAL-00008" summary="“Caso 3: Calcular promedio con conjunto vacío (Verde)">
++      <option name="closed" value="true" />
++      <created>1729022248386</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1729022248386</updated>
++    </task>
++    <task id="LOCAL-00009" summary="“Caso 3: Calcular promedio con conjunto vacío (Verde)">
++      <option name="closed" value="true" />
++      <created>1729022277851</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1729022277851</updated>
++    </task>
++    <task id="LOCAL-00010" summary="“Caso 3: Calcular promedio con conjunto vacío (Verde)">
++      <option name="closed" value="true" />
++      <created>1729022291201</created>
++      <option name="number" value="00010" />
++      <option name="presentableId" value="LOCAL-00010" />
++      <option name="project" value="LOCAL" />
++      <updated>1729022291201</updated>
++    </task>
++    <option name="localTasksCounter" value="11" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+@@ -152,8 +190,10 @@
+     <MESSAGE value="Caso1 :calcular promedio con conjunto vacio (Verde)" />
+     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+     <MESSAGE value="calcular promedio en (VERDE)" />
++    <MESSAGE value="“Caso 1: Calcular promedio con conjunto vacío (Rojo)" />
+     <MESSAGE value="“Caso 1: Calcular promedio con conjunto vacío (Verde)" />
+-    <option name="LAST_COMMIT_MESSAGE" value="“Caso 1: Calcular promedio con conjunto vacío (Verde)" />
++    <MESSAGE value="“Caso 3: Calcular promedio con conjunto vacío (Verde)" />
++    <option name="LAST_COMMIT_MESSAGE" value="“Caso 3: Calcular promedio con conjunto vacío (Verde)" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
