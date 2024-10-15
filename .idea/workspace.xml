@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/tests/testconjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testconjunto.py" afterDir="false" />
+    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="calcular promedio en (VERDE)">
+      <change beforePath="$PROJECT_DIR$/src/logica/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Conjunto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Pool-NS &lt;75177414@continental.edu.pe&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -38,7 +43,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in testconjunto.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="KATDD" />
       <option name="ENV_FILES" value="" />
@@ -61,6 +66,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in testconjunto.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="KATDD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/tests/testconjunto.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in testconjunto.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -78,7 +103,39 @@
       <option name="presentableId" value="Default" />
       <updated>1729020007516</updated>
     </task>
+    <task id="LOCAL-00001" summary="Caso1 :calcular promedio con conjunto vacio (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729021403390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729021403390</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Caso1 :calcular promedio con conjunto vacio (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729021475679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729021475679</updated>
+    </task>
+    <task id="LOCAL-00003" summary="calcular promedio en (VERDE)">
+      <option name="closed" value="true" />
+      <created>1729021527797</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729021527797</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Caso1 :calcular promedio con conjunto vacio (Rojo)" />
+    <MESSAGE value="Caso1 :calcular promedio con conjunto vacio (Verde)" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="calcular promedio en (VERDE)" />
+    <option name="LAST_COMMIT_MESSAGE" value="calcular promedio en (VERDE)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
