@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="“Caso 1: Calcular promedio con conjunto vacío (Verde)">
-      <change beforePath="$PROJECT_DIR$/src/tests/testconjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testconjunto.py" afterDir="false" />
-    </list>
+    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +24,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -44,7 +43,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Python tests in testconjunto.py">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="KATDD" />
       <option name="ENV_FILES" value="" />
@@ -144,7 +143,39 @@
       <option name="project" value="LOCAL" />
       <updated>1729021879260</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="“Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)”">
+      <option name="closed" value="true" />
+      <created>1729022435034</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729022435034</updated>
+    </task>
+    <task id="LOCAL-00007" summary="“Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)”">
+      <option name="closed" value="true" />
+      <created>1729022501786</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729022501786</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729022531859</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729022531859</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729022587843</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729022587843</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -153,7 +184,10 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="calcular promedio en (VERDE)" />
     <MESSAGE value="“Caso 1: Calcular promedio con conjunto vacío (Verde)" />
-    <option name="LAST_COMMIT_MESSAGE" value="“Caso 1: Calcular promedio con conjunto vacío (Verde)" />
+    <MESSAGE value="Caso 4: Calcularpromedio con un conjunto de n elementos (Rojo)" />
+    <MESSAGE value="“Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)”" />
+    <MESSAGE value="Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
