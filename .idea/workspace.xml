@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)" />
+    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_10_2024_14_58__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_10_2024_14_58__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +26,8 @@
         <option value="Pool-NS &lt;75177414@continental.edu.pe&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -175,7 +178,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729022587843</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729022627098</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729022627098</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729022704088</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729022704088</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
