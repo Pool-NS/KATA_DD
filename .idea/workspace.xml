@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="calcular promedio en (VERDE)">
-      <change beforePath="$PROJECT_DIR$/src/logica/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Conjunto.py" afterDir="false" />
+    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="“Caso 1: Calcular promedio con conjunto vacío (Verde)">
+      <change beforePath="$PROJECT_DIR$/src/tests/testconjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/testconjunto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in testconjunto.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -127,7 +128,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729021527797</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="calcular promedio en (VERDE)">
+      <option name="closed" value="true" />
+      <created>1729021708207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729021708207</updated>
+    </task>
+    <task id="LOCAL-00005" summary="“Caso 1: Calcular promedio con conjunto vacío (Verde)">
+      <option name="closed" value="true" />
+      <created>1729021879260</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729021879260</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,7 +152,8 @@
     <MESSAGE value="Caso1 :calcular promedio con conjunto vacio (Verde)" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="calcular promedio en (VERDE)" />
-    <option name="LAST_COMMIT_MESSAGE" value="calcular promedio en (VERDE)" />
+    <MESSAGE value="“Caso 1: Calcular promedio con conjunto vacío (Verde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="“Caso 1: Calcular promedio con conjunto vacío (Verde)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
