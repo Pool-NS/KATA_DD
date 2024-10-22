@@ -35,8 +35,12 @@ class TestCalculoPromedio(unittest.TestCase):
         conjunto = Conjunto([3, -3, 3, -3])
         self.assertEqual(conjunto.promedio(), 0)
 
-if __name__ == '__main__':
-    unittest.main()
+    def test_elementos_no_numericos(self):
+        # Elementos no numéricos deben lanzar TypeError
+        conjunto = Conjunto([1, 'a', 3])
+        with self.assertRaises(TypeError):
+            conjunto.promedio()
+
 
 
 
