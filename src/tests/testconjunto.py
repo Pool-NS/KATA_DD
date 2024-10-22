@@ -40,6 +40,9 @@ class TestCalculoPromedio(unittest.TestCase):
         conjunto = Conjunto([1, 'a', 3])
         with self.assertRaises(TypeError):
             conjunto.promedio()
+if __name__ == '__main__':
+    unittest.main()
+
 
 
 
