@@ -1,13 +1,24 @@
 import unittest
-from src.logica.Conjunto import Conjunto
+from src.logica.Conjunto import Conjunto, NoSePuedeCalcular
 
-class TestConjunto(unittest.TestCase):
-    def test_conjunto_vacio_retornaNone(self):
+class TestCalculoPromedio(unittest.TestCase):
+
+    def test_conjunto_vacio_lanza_excepcion(self):
+        # Lista vacía debe lanzar NoSePuedeCalcular
         conjunto = Conjunto([])
-        self.assertIsNone(conjunto.promedio())
-    def test_conjunto_unElemento_retornaValorUnicoElemento(self):
+        with self.assertRaises(NoSePuedeCalcular):
+            conjunto.promedio()
+
+    def test_un_solo_elemento(self):
+        # Un solo elemento en la lista
         conjunto = Conjunto([5])
-        self.assertEqual(5, conjunto.promedio())
+        self.assertEqual(conjunto.promedio(), 5)
+
+
+
+if __name__ == '__main__':
+    unittest.main()
+
 
 
 
