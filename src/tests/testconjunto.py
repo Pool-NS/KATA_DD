@@ -32,7 +32,7 @@ class TestCalculoPromedio(unittest.TestCase):
 
     def test_elementos_positivos_y_negativos(self):
         # Números positivos y negativos
-         conjunto = Conjunto([3, -3, 3, -3])
+        conjunto = Conjunto([3, -3, 3, -3])
         self.assertEqual(conjunto.promedio(), 0)
 
 if __name__ == '__main__':
