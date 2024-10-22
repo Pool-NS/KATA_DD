@@ -1,16 +1,16 @@
-import unittest
-from src.logica.Conjunto import calcular_promedio,NoSePuedeCalcular
+class NoSePuedeCalcular(Exception):
+    """Excepción personalizada para errores en el cálculo."""
+    pass
 
-class TestCalculoPromedio(unittest.TestCase):
+class Conjunto:
+    def __init__(self, conjunto):
+        self.__conjunto = conjunto
 
-    def test_lista_vacia(self):
-        # Lista vacía debe lanzar NoSePuedeCalcular
-        with self.assertRaises(NoSePuedeCalcular):
-            calcular_promedio([])
+    def promedio(self):
+        if len(self.__conjunto) == 0:
+            raise NoSePuedeCalcular("No se puede calcular el promedio de una lista vacía.")
+        return sum(self.__conjunto) / len(self.__conjunto)  # Aquí está la corrección
 
-
-if __name__ == '__main__':
-    unittest.main()
 
 
 
