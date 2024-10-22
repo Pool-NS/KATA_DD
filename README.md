@@ -12,11 +12,11 @@ Esta aplicación calcula la desviación estándar y el promedio de una lista de 
 El  archivo esta organizado de esta manera
 
 /Kata-TDD
- -src
+ *src
     -lógica
         -calculo.py
         -desviación.py
- -test
+ *test
     -TestCalculo
     -Testdesviacion
 
