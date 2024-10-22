@@ -38,5 +38,5 @@ Donde en la parte de nuestra estructura de nuestro proyecto se encuentra el arch
 1. Clona este repositorio:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/Pool-NS/KATA_DD_FINAL.git
    cd KataDD
