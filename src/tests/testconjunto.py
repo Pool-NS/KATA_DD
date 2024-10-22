@@ -28,7 +28,7 @@ class TestCalculoPromedio(unittest.TestCase):
     def test_todos_ceros(self):
         # Todos ceros en la lista
         conjunto = Conjunto([0, 0, 0, 0])
-         self.assertEqual(conjunto.promedio(), 0)
+        self.assertEqual(conjunto.promedio(), 0)
 
 if __name__ == '__main__':
     unittest.main()
