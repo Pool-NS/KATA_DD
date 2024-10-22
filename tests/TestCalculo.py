@@ -7,8 +7,14 @@ class TestCalculoPromedio(unittest.TestCase):
         with self.assertRaises(NoSePuedeCalcular):
             calcular_promedio([])
 
+    def test_promedio_con_numeros_negativos(self):
+        self.assertEqual(calcular_promedio([-1, -2, -3]), -2)
+
     def test_un_solo_elemento(self):
         self.assertEqual(calcular_promedio([5]), 5)
+
+    def test_promedio_con_elementos_repetidos(self):
+        self.assertEqual(calcular_promedio([4, 4, 4]), 4)
 
     def test_dos_elementos(self):
         self.assertEqual(calcular_promedio([10, 20]), 15)
@@ -42,7 +48,8 @@ class TestCalculoDesviacionEstandar(unittest.TestCase):
     def test_elementos_decimales(self):
         self.assertAlmostEqual(calcular_desviacion_estandar([1.5, 2.5, 3.5]), math.sqrt(2 / 3), places=4)
 
-
+    def test_lista_con_varios_ceros_y_un_numero(self):
+        self.assertAlmostEqual(calcular_desviacion_estandar([0, 0, 5]), 2.3570, places=4)
 
     def test_lista_con_numeros_negativos(self):
         self.assertAlmostEqual(calcular_desviacion_estandar([-1, -2, -3]), math.sqrt(2 / 3), places=4)

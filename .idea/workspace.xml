@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="&quot;Caso7 con n elementos positivos y negativos(Azul)&quot;">
+    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="&quot;CASO DE DESVIACION ESTANDAR (ROJO)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/calculo.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/calculo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/TestCalculo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCalculo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -382,7 +381,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729616018100</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="&quot;CASO DE DESVIACION ESTANDAR (ROJO)">
+      <option name="closed" value="true" />
+      <created>1729618597171</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1729618597171</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -408,6 +415,7 @@
     <MESSAGE value="&quot;Caso6 con n elementos positivos y negativos(Verde)&quot;" />
     <MESSAGE value="&quot;Caso7 con n elementos positivos y negativos(Verde)&quot;" />
     <MESSAGE value="&quot;Caso7 con n elementos positivos y negativos(Azul)&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Caso7 con n elementos positivos y negativos(Azul)&quot;" />
+    <MESSAGE value="&quot;CASO DE DESVIACION ESTANDAR (ROJO)" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;CASO DE DESVIACION ESTANDAR (ROJO)" />
   </component>
 </project>
