@@ -10,6 +10,7 @@ Esta aplicación calcula la desviación estándar y el promedio de una lista de 
 ## Estructura del Proyecto
 
 El  archivo esta organizado de esta manera
+
 /Kata-TDD
    src
      lógica
