@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="&quot;Caso7 con n elementos positivos y negativos(Azul)&quot;">
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logica/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logica/calcular_promedio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/Conjunto.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/testconjunto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/calculo.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/calculo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TestCalculo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCalculo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in C:/Users/Fer UwU/Downloads/NANI/s/KataDD/src/tests/testconjunto.py.executor": "Run",
+    "Python tests.Python tests in TestCalculo.py.executor": "Run",
+    "Python tests.Python tests in calculo.py.executor": "Run",
     "Python tests.Python tests in testconjunto.py.executor": "Run",
+    "Python.TestCalculo.executor": "Run",
+    "Python.calculo.executor": "Run",
     "Python.testconjunto.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -373,7 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729571913699</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="&quot;Caso7 con n elementos positivos y negativos(Azul)&quot;">
+      <option name="closed" value="true" />
+      <created>1729616018100</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1729616018100</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
