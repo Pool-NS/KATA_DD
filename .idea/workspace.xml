@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="&quot;Caso5 con n elementos donde todos son ceros.(Rojo)" />
+    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="&quot;Caso7 con n elementos positivos y negativos(Azul)&quot;">
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logica/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logica/calcular_promedio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/Conjunto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/testconjunto.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,18 +34,18 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Pool-NS"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Pool-NS&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Pool-NS/KATA_DD.git",
-    "accountId": "137970aa-c7f2-4af6-9b24-b4d9a140a964"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Pool-NS/KATA_DD.git&quot;,
+    &quot;accountId&quot;: &quot;137970aa-c7f2-4af6-9b24-b4d9a140a964&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -54,11 +62,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Fer UwU/Downloads/NANI/s/KataDD",
+    "last_opened_file_path": "C:/Users/Fer UwU/Links",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests in testconjunto.py">
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="KATDD" />
       <option name="ENV_FILES" value="" />
@@ -103,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in testconjunto.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in C:/Users/Fer UwU/Downloads/NANI/s/KataDD/src/tests/testconjunto.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="KATDD" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in testconjunto.py" />
+        <item itemvalue="Python tests.Python tests in C:/Users/Fer UwU/Downloads/NANI/s/KataDD/src/tests/testconjunto.py" />
         <item itemvalue="Python.testconjunto" />
       </list>
     </recent_temporary>
@@ -325,7 +333,47 @@
       <option name="project" value="LOCAL" />
       <updated>1729571711587</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="&quot;Caso5 con n elementos donde todos son ceros.(Verde)">
+      <option name="closed" value="true" />
+      <created>1729571747791</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1729571747791</updated>
+    </task>
+    <task id="LOCAL-00025" summary="&quot;Caso6 con n elementos positivos y negativos(Rojo)&quot;">
+      <option name="closed" value="true" />
+      <created>1729571793523</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1729571793523</updated>
+    </task>
+    <task id="LOCAL-00026" summary="&quot;Caso6 con n elementos positivos y negativos(Verde)&quot;">
+      <option name="closed" value="true" />
+      <created>1729571814609</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1729571814609</updated>
+    </task>
+    <task id="LOCAL-00027" summary="&quot;Caso7 con n elementos positivos y negativos(Verde)&quot;">
+      <option name="closed" value="true" />
+      <created>1729571883182</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1729571883182</updated>
+    </task>
+    <task id="LOCAL-00028" summary="&quot;Caso7 con n elementos positivos y negativos(Azul)&quot;">
+      <option name="closed" value="true" />
+      <created>1729571913699</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1729571913699</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -346,6 +394,11 @@
     <MESSAGE value="&quot;Caso 3: Caso con dos elementos en la lista. (Verde)&quot;" />
     <MESSAGE value="&quot;Caso 4: Caso con n elementos positivos.. (Verde)&quot;" />
     <MESSAGE value="&quot;Caso5 con n elementos donde todos son ceros.(Rojo)" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Caso5 con n elementos donde todos son ceros.(Rojo)" />
+    <MESSAGE value="&quot;Caso5 con n elementos donde todos son ceros.(Verde)" />
+    <MESSAGE value="&quot;Caso6 con n elementos positivos y negativos(Rojo)&quot;" />
+    <MESSAGE value="&quot;Caso6 con n elementos positivos y negativos(Verde)&quot;" />
+    <MESSAGE value="&quot;Caso7 con n elementos positivos y negativos(Verde)&quot;" />
+    <MESSAGE value="&quot;Caso7 con n elementos positivos y negativos(Azul)&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Caso7 con n elementos positivos y negativos(Azul)&quot;" />
   </component>
 </project>
