@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="Configuración inicial del proyecto con clase Conjunto" />
+    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="Configuración inicial del proyecto con clase Conjunto...inicial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +26,12 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Pool-NS"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Pool-NS/KataDD.git",
@@ -207,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729568848273</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Configuración inicial del proyecto con clase Conjunto...inicial">
+      <option name="closed" value="true" />
+      <created>1729569010838</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729569010838</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,6 +234,7 @@
     <MESSAGE value="“Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)”" />
     <MESSAGE value="Caso 4: Calcular promedio con un conjunto de n elementos (Rojo)" />
     <MESSAGE value="Configuración inicial del proyecto con clase Conjunto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configuración inicial del proyecto con clase Conjunto" />
+    <MESSAGE value="Configuración inicial del proyecto con clase Conjunto...inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuración inicial del proyecto con clase Conjunto...inicial" />
   </component>
 </project>
