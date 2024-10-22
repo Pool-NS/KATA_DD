@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="&quot;CASO DE DESVIACION ESTANDAR (ROJO)">
+    <list default="true" id="7977fd1e-10a3-4d93-8780-d748a48bd289" name="Changes" comment="&quot;CASO DE DESVIACION ESTANDAR POR LOS PORCENTAJES DE PRUEBA  (ROJO)">
+      <change afterPath="$PROJECT_DIR$/src/logica/desviacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/testdesviacion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/TestCalculo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCalculo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +57,11 @@
     "Python tests.Python tests in TestCalculo.py.executor": "Run",
     "Python tests.Python tests in calculo.py.executor": "Run",
     "Python tests.Python tests in testconjunto.py.executor": "Run",
+    "Python tests.Python tests in testdesviacion.py.executor": "Run",
+    "Python.Desviacion.executor": "Run",
     "Python.TestCalculo.executor": "Run",
     "Python.calculo.executor": "Run",
+    "Python.desviacion.executor": "Run",
     "Python.testconjunto.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,7 +70,29 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in testdesviacion.py">
+    <configuration name="desviacion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KATDD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/logica" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/logica/desviacion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="KATDD" />
       <option name="ENV_FILES" value="" />
@@ -126,8 +152,25 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in testdesviacion.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="KATDD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/testdesviacion.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in testdesviacion.py" />
+        <item itemvalue="Python.desviacion" />
         <item itemvalue="Python tests.Python tests in C:/Users/Fer UwU/Downloads/NANI/s/KataDD/src/tests/testconjunto.py" />
         <item itemvalue="Python.testconjunto" />
       </list>
@@ -389,7 +432,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729618597171</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="&quot;CASO DE DESVIACION ESTANDAR POR LOS PORCENTAJES DE PRUEBA  (ROJO)">
+      <option name="closed" value="true" />
+      <created>1729619554879</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1729619554879</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -416,6 +467,7 @@
     <MESSAGE value="&quot;Caso7 con n elementos positivos y negativos(Verde)&quot;" />
     <MESSAGE value="&quot;Caso7 con n elementos positivos y negativos(Azul)&quot;" />
     <MESSAGE value="&quot;CASO DE DESVIACION ESTANDAR (ROJO)" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;CASO DE DESVIACION ESTANDAR (ROJO)" />
+    <MESSAGE value="&quot;CASO DE DESVIACION ESTANDAR POR LOS PORCENTAJES DE PRUEBA  (ROJO)" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;CASO DE DESVIACION ESTANDAR POR LOS PORCENTAJES DE PRUEBA  (ROJO)" />
   </component>
 </project>
