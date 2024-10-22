@@ -1,5 +1,5 @@
 import unittest
-from src.logica.calculo import calcular_promedio,NoSePuedeCalcular
+from src.logica.Conjunto import calcular_promedio,NoSePuedeCalcular
 
 class TestCalculoPromedio(unittest.TestCase):
 
