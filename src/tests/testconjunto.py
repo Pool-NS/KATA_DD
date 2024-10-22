@@ -15,6 +15,11 @@ class TestCalculoPromedio(unittest.TestCase):
         self.assertEqual(conjunto.promedio(), 5)
 
 
+    def test_dos_elementos(self):
+        # Dos elementos en la lista
+        conjunto = Conjunto([5, 15])
+        self.assertEqual(conjunto.promedio(), 10)
+
 
 if __name__ == '__main__':
     unittest.main()
